@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /heosaeng-jeon/
+permalink: /facilitation-field/
 title: '퍼실리테이션 현장, 이라는 말을 들으면 어떤 장면이 떠오르십니까?'
 date: 2019-12-10 14:30:00 +09:00
 feature: '/img/posts/001/th1.png'
