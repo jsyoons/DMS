@@ -3,8 +3,8 @@ layout: post
 permalink: /vucameeting/
 title: 바야흐로 'VUCA'시대, 업무회의의 지향점을 알려드립니다.
 date: 2019-12-10 14:30:00 +09:00
-feature: '/img/posts/001/th3.jpg'
-background: '/img/posts/001/elephant.png'
+feature: '/img/posts/001/th2.jpg'
+background: '/img/posts/001/th1.jpg'
 categories:
   - daily meeting skill
 tags:
