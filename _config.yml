@@ -7,6 +7,9 @@ baseurl:            "/"
 url:                "https://도메인"
 locale:             "ko_KR"
 thumbnail:          "/img/posts/001/th2.jpg"
+# 블로그 disqus shortname
+disqus:
+  shortname: https-dailymeetingskill-com
 
 # Social Profiles
 twitter_username:   twitter_username

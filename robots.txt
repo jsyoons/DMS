@@ -1,0 +1,4 @@
+User-agent:*
+Allow:/
+
+Sitemap: http://dailymeetingskill.com/sitemap.xml
