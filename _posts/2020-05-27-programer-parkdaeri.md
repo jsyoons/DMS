@@ -4,7 +4,7 @@ permalink: /heosaeng-jeon/
 title: '회의가 괴로운 5년차 개발자 박대리'
 date: 2020-05-27 14:30:00 +09:00
 feature: '/img/posts/003/th1.jpg'
-background: '/img/posts/003/img2.jpg'
+background: '/img/posts/003/img2.jpeg'
 categories:
   - daily meeting skill
 tags:
@@ -44,7 +44,7 @@ description:
 
   박대리 정도 경력이 되면 나름의 근거를 갖고 재반박을 합니다. 그렇게 팀장님과 박대리의 논박이 이어지면서 이 회의는 더 이상 **아이디어회의**가 아니라 **찬반 토론**이 된 것입니다. 그 사이에 또 다른 사람의 더 나은 아이디어는 어디론가 숨어버립니다.
 
-![그림 2](\img\posts\003\img2.jpg)
+![그림 2](\img\posts\003\img2.jpeg)
 
 #### 그런데 이 두 입장에도 공통점이 있습니다.
 
@@ -91,4 +91,4 @@ description:
 
 **소통과 협업을 위해 모두가 알아야 할 회의스킬 Daily Meeting Skill**에서 트레이닝 하세요.
 
-![그림 3](\img\posts\003\img3.jpg)
+<center><a href="https://forms.gle/j7uQVrHLMcQqNSt19">![그림 3](\img\posts\003\img3.jpg)</a></center>
