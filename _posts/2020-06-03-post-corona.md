@@ -3,7 +3,7 @@ layout: post
 permalink: /post-corona19/
 title: '포스트코로나를 위한 Miro와 Daily Meeting Skill'
 date: 2020-06-03 14:30:00 +09:00
-feature: '/img/posts/003/th1.jpg'
+feature: '/img/posts/004/dzArtboard 13.jpg'
 background: '/img/posts/003/img2.jpeg'
 categories:
   - daily meeting skill

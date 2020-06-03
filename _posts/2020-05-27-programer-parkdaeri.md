@@ -3,7 +3,7 @@ layout: post
 permalink: /heosaeng-jeon/
 title: '회의가 괴로운 5년차 개발자 박대리'
 date: 2020-05-27 14:30:00 +09:00
-feature: '/img/posts/004/dzArtboard 13.jpg'
+feature: '/img/posts/003/th1.jpg'
 background: '/img/posts/003/img2.jpeg'
 categories:
   - daily meeting skill
