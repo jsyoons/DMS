@@ -83,13 +83,7 @@ description:
 
 #### 수평적인 소통문화는 그냥 오지 않습니다.
 
-동료들과 효과적으로 아이디어를 나누는 일,
-
-이렇게 해보자는 제안에 빠르게 합의하는 일,
-
-대립하는 두 견해를 조정하는 일,
-
-**소통과 협업을 위해 모두가 알아야 할 회의스킬 Daily Meeting Skill**에서 트레이닝 하세요.
+동료들과 효과적으로 아이디어를 나누는 일,   이렇게 해보자는 제안에 빠르게 합의하는 일,   대립하는 두 견해를 조정하는 일,   **소통과 협업을 위해 모두가 알아야 할 회의스킬 Daily Meeting Skill**에서 트레이닝 하세요.
 
 <a href="https://forms.gle/tfkGVKZHCWZxGmVL6"><img src="\img\posts\003\img3.jpg"></a>
 <a href="https://dailymeetingskill.com/3rdpromo/"><img src="\img\posts\003\img4.jpg"></a>
