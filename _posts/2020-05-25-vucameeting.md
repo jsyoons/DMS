@@ -51,3 +51,6 @@ description:
 
 
   이런 회의라면 회의가 지겹거나 두렵지 않은 것은 자연스러운 결과겠지요. 불확실성에 대응할 줄 아는 강하고 날렵한 조직을 찾고 싶다면 그 조직이 회의하는 모습이 위와 같은 지 살펴보시면 됩니다. 그리고 링크컨설팅의 Daily Meeting Skill 과정에서 ‘일상회의의 가능성’을 직접 느껴 보시기를 권합니다. 여러분부터, 혹은 여러분의 팀부터 시작해보세요.
+
+  <a href="https://dailymeetingskill.com/3rdpromo/"><img src="\img\posts\003\img4.jpg"></a>
+  <a href="https://forms.gle/tfkGVKZHCWZxGmVL6"><img src="\img\posts\003\img3.jpg"></a>

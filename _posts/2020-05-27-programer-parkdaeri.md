@@ -91,4 +91,5 @@ description:
 
 **소통과 협업을 위해 모두가 알아야 할 회의스킬 Daily Meeting Skill**에서 트레이닝 하세요.
 
-<center><a href="https://forms.gle/tfkGVKZHCWZxGmVL6"><img src="\img\posts\003\img3.jpg"></a></center>
+<a href="https://forms.gle/tfkGVKZHCWZxGmVL6"><img src="\img\posts\003\img3.jpg"></a>
+<a href="https://dailymeetingskill.com/3rdpromo/"><img src="\img\posts\003\img4.jpg"></a>
