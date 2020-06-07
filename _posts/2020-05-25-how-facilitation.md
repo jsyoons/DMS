@@ -67,4 +67,4 @@ Daily Meeting Skill은 조금 다릅니다. DMS의 목적은 여러분의 회의
 * 우리조직은 소통과 협업을 지향하지만, 소통과 협업을 구현하는 구체적인 방법을 잘 모르겠다.
 * 반복되는 회의가 지치고 지겹다.
 
-<center>[![그림2](\img\posts\001\button1.jpg)](https://forms.gle/RJwotDANZYZMufqM8)</center>
+신청하기 >> https://forms.gle/RJwotDANZYZMufqM8
